@@ -1,0 +1,3 @@
+This is Assignemnt 4 for COMP 249(Advanced JAVA)
+
+The program aims sort a txt files into a dictionary like files
