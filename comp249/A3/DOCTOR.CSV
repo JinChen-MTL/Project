@@ -1,0 +1,10 @@
+﻿Doctor List,,,
+Doctor,Speciality,Patient Line,Office number
+Dr. Alice  ,DERMATOLOGY,1-555-234569,H-256
+Dr. Jhon,ALLERGY AND IMMUNOLOGY,1-555-125340,H-351
+Dr. Harry ,FAMILY MEDICINE,1-556-232570,SG-201
+Dr. Rita,NTERNAL MEDICINE,1-555-234572,H-355
+Dr. Steve,NEUROLOGY,1-555-234573,SG-302
+Dr. Jim,PATHOLOGY,1-555-234574,W-281
+Dr. Barbara, PEDIATRICS,1-555-234575,W-270
+Note: to reserve an appointment with a Dcotor you must call between 10 am to 2 pm Monday to Friday,,,
