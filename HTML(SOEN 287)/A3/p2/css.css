@@ -1,0 +1,38 @@
+        body {
+            background-color: #E7E9EB;
+        }
+        
+        table#t1 {
+            border: 1px solid;
+            border-collapse: collapse;
+            width: 65%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 10%;
+            margin-bottom: 200px;
+            overflow: hidden;
+        }
+        table#t2 {
+            border-collapse: collapse;
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            margin-bottom:auto;
+        }
+        div#bar a {
+            float: left;
+            color: #f2f2f2;
+            text-align: center;
+            font-size: 17px;
+            padding: 10px;
+            color: black;
+            width: 16.6666%;
+            box-sizing: border-box;
+            background-color: green;
+        }
+        
+        form#index1,
+        #input {
+            text-align: left;
+        }
